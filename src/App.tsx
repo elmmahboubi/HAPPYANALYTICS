@@ -2,7 +2,6 @@ import React, { Suspense, lazy, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { MessageCircle } from 'lucide-react';
 import { notifyVisitor } from './utils/visitor';
-import { useAnalytics } from './hooks/useAnalytics';
 
 // Eager load HomePage for better initial load performance
 import HomePage from './pages';
@@ -19,9 +18,6 @@ const ShippingPolicyPage = lazy(() => import('./pages/shipping-policy'));
 const CookiesPage = lazy(() => import('./pages/cookies'));
 
 function App() {
-  // Initialize analytics
-  useAnalytics();
-
   useEffect(() => {
     // Only notify about visitor once per session
     const hasNotified = sessionStorage.getItem('visitorNotified');
