@@ -19,10 +19,10 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 text-center md:text-left mb-10 md:mb-0">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
-              Find Your Perfect Deal Today
+            Where Little Joys Begin
             </h1>
             <p className="mt-4 text-lg md:text-xl text-blue-100 max-w-lg mx-auto md:mx-0">
-              Discover amazing deals on quality electronics and second-hand items. Shop smart, save more.
+            Thoughtfully chosen essentials for a calm, cozy start.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
               <a 
