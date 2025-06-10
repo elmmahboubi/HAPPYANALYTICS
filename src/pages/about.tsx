@@ -85,7 +85,7 @@ const AboutPage: React.FC = () => {
                     </div>
                     <div>
                       <div className="font-medium text-gray-900">Email:</div>
-                      <div className="text-gray-600">support@happydeel.com</div>
+                      <div className="text-gray-600">dorothymoore2757187@gmail.com</div>
                     </div>
                     <div>
                       <div className="font-medium text-gray-900">Business Hours:</div>

@@ -135,7 +135,7 @@ const ContactPage: React.FC = () => {
                         <Mail className="h-6 w-6 text-[#0046be] mt-1" />
                         <div className="ml-4">
                           <h3 className="font-medium text-gray-900">Email</h3>
-                          <p className="text-gray-600 mt-1">support@happydeel.com</p>
+                          <p className="text-gray-600 mt-1">dorothymoore2757187@gmail.com</p>
                         </div>
                       </div>
 

@@ -60,7 +60,7 @@ const PrivacyPolicyPage: React.FC = () => {
               </p>
               <ul className="list-none mt-4">
                 <li>Phone: +17176484487</li>
-                <li>Email: support@happydeel.com</li>
+                <li>Email: dorothymoore2757187@gmail.com</li>
                 <li>Address: 1726 Parsons Ave, Columbus, OH 43207, USA</li>
               </ul>
             </div>

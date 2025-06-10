@@ -107,7 +107,7 @@ const ProductPage = () => {
     },
     {
       question: "How do I contact support?",
-      answer: "You can reach us anytime at support@happydeel.com or call us at +17176484487. We're available 7 days a week."
+      answer: "You can reach us anytime at dorothymoore2757187@gmail.com or call us at +17176484487. We're available 7 days a week."
     }
   ], []);
 

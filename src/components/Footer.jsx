@@ -40,7 +40,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center">
                 <Mail className="h-5 w-5 text-[#0046be] mr-2" />
-                <span>support@happydeel.com</span>
+                <span>dorothymoore2757187@gmail.com</span>
               </div>
               <div className="flex items-start">
                 <MapPin className="h-5 w-5 text-[#0046be] mr-2 mt-1" />
